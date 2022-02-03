@@ -22,10 +22,7 @@ public class Uri1038v2{
         }
         else{
             total = qtd * 1.50;
-        }
-            
-            
-        
+        }        
         System.out.printf("Total: R$ %.2f\n", total);
 
         teclado.close();
